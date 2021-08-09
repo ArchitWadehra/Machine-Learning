@@ -1,4 +1,5 @@
 ## Machine Learning Projects list:
-1. Linear Regression
-2. Logistic Regression
-3. k-nearest neighbors
+>Linear Regression  
+>Logistic Regression  
+>k-nearest neighbors    
+>Support Vector Machine(SVM)  
